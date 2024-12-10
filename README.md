@@ -162,7 +162,7 @@ print(f"XGBoost RMSE: {rmse_xgb}")
 ### **4.2 Feature Importance**
 Random Forest's feature importance plot reveals which sensors contribute most to RUL predictions.
 
-![Feature Importance](Screenshot)
+![Feature Importance](Feature_importance.png)
 
 - **Top Features**:
    - `s11`: Dominant sensor.
